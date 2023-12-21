@@ -1,7 +1,5 @@
 # Gesture Controlled Bot
 
-![Gesture Controlled Bot](https://github.com/AmarjeetMohanty/Gesture-Controlled-Bot/raw/main/images/gesture_controlled_bot.jpg)
-
 This repository contains the source code and documentation for a gesture-controlled robot. The project aims to provide a fun and interactive way to control a robot using hand gestures detected by a camera.
 
 ## Features
